@@ -13,7 +13,7 @@ Hi there! 👋 I'm **Deepika Annapureddy**, an experienced Software Engineer wit
 - Certified in **Azure, Power Platform, and Advanced SQL**
 - Multiple Award Recipient 🎖️
 
-[![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deeann01&theme=vue)](https://github.com/Deeann01)
+
 
 ---
 

@@ -53,14 +53,8 @@ Hi there! 👋 I'm **Deepika Annapureddy**, an experienced Software Engineer wit
 
 ---
 
-## 📈 GitHub Analytics
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deeann01&show_icons=true&theme=vue)](https://github.com/Deeann01)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deeann01&layout=compact&theme=vue)](https://github.com/Deeann01)
 
----
 
-## 🌟 GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Deeann01&theme=vue&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
